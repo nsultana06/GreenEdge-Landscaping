@@ -1,2 +1,2 @@
 # GreenEdge-Landscaping
-End-to-end business analytics and reporting project using Excel, Power Query, KPI analysis, profitability analysis, and dashboard reporting.
+A fictional end-to-end business analytics project demonstrating how raw operational data can be transformed into validated reporting, profitability analysis, customer analysis, payment analysis, operational KPIs, and an executive dashboard.
