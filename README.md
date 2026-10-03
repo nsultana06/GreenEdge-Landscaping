@@ -79,7 +79,12 @@ This project demonstrates how messy operational data can be transformed into a s
 
 ## Deliverables
 
-The repository contains the Excel workbook used to perform the analysis and reporting.
+- Excel business analysis workbook
+- Executive dashboard
+- Client brief
+- Profitability analysis
+- Customer analysis
+- Payment analysis
 
 ## Note
 
